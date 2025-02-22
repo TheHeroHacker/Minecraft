@@ -1,131 +1,25 @@
-[{
-  "version": "1.0",
-  "image": {
-    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/Minecraft.ttf",
-    "format": "json",
-    "formatDescription": "The image format and characteristics",
-    "mimeType": "application/json",
-    "class": "DirectClass",
-    "geometry": {
-      "width": 800,
-      "height": 480,
-      "x": 0,
-      "y": 0
-    },
-    "units": "Undefined",
-    "type": "GrayscaleAlpha",
-    "endianness": "Undefined",
-    "colorspace": "sRGB",
-    "depth": 8,
-    "baseDepth": 16,
-    "channelDepth": {
-      "alpha": 1,
-      "red": 8,
-      "green": 8,
-      "blue": 8
-    },
-    "pixels": 384000,
-    "imageStatistics": {
-      "all": {
-        "min": 0,
-        "max": 65535,
-        "mean": 58604.7,
-        "standardDeviation": 16655.5,
-        "kurtosis": 4.71757,
-        "skewness": -2.56907,
-        "entropy": 0.0943807
-      }
-    },
-    "channelStatistics": {
-      "alpha": {
-        "min": 0,
-        "max": 0,
-        "mean": 0,
-        "standardDeviation": 0,
-        "kurtosis": 1.6384e+52,
-        "skewness": 9.375e+35,
-        "entropy": 0
-      },
-      "red": {
-        "min": 0,
-        "max": 65535,
-        "mean": 56294.6,
-        "standardDeviation": 22207.4,
-        "kurtosis": 2.37146,
-        "skewness": -2.06781,
-        "entropy": 0.125841
-      },
-      "green": {
-        "min": 0,
-        "max": 65535,
-        "mean": 56294.6,
-        "standardDeviation": 22207.4,
-        "kurtosis": 2.37146,
-        "skewness": -2.06781,
-        "entropy": 0.125841
-      },
-      "blue": {
-        "min": 0,
-        "max": 65535,
-        "mean": 56294.6,
-        "standardDeviation": 22207.4,
-        "kurtosis": 2.37146,
-        "skewness": -2.06781,
-        "entropy": 0.125841
-      }
-    },
-    "renderingIntent": "Perceptual",
-    "gamma": 0.454545,
-    "chromaticity": {
-      "redPrimary": {
-        "x": 0.64,
-        "y": 0.33
-      },
-      "greenPrimary": {
-        "x": 0.3,
-        "y": 0.6
-      },
-      "bluePrimary": {
-        "x": 0.15,
-        "y": 0.06
-      },
-      "whitePrimary": {
-        "x": 0.3127,
-        "y": 0.329
-      }
-    },
-    "backgroundColor": "#FFFFFFFFFFFFFFFF",
-    "borderColor": "#DFDFDFDFDFDFFFFF",
-    "matteColor": "#BDBDBDBDBDBDFFFF",
-    "transparentColor": "#0000000000000000",
-    "interlace": "None",
-    "intensity": "Undefined",
-    "compose": "Over",
-    "pageGeometry": {
-      "width": 800,
-      "height": 480,
-      "x": 0,
-      "y": 0
-    },
-    "dispose": "Undefined",
-    "iterations": 0,
-    "compression": "Undefined",
-    "orientation": "Undefined",
-    "properties": {
-      "date:create": "2025-02-22T20:21:51+00:00",
-      "date:modify": "2025-02-22T20:21:51+00:00",
-      "signature": "7b427ca0c499fecc50eb497aabe6769d16c59731932bf6a313e31e9d1757ccec"
-    },
-    "artifacts": {
-      "mvg:vector-graphics": "push graphic-context\n viewbox 0 0 800 480\n font-size 18\n text 10,20 'abcdefghijklmnopqrstuvwxyz\nABCDEFGHIJKLMNOPQRSTUVWXYZ\n0123456789.:,;(*!?}^)#${%^&-+@\n'\n font-size 18\n text 10,144 '12'\n font-size 12\n text 50,144 'That which does not destroy me, only makes me stronger.'\n font-size 18\n text 10,174 '18'\n font-size 18\n text 50,174 'That which does not destroy me, only makes me stronger.'\n font-size 18\n text 10,210 '24'\n font-size 24\n text 50,210 'That which does not destroy me, only makes me stronger.'\n font-size 18\n text 10,258 '36'\n font-size 36\n text 50,258 'That which does not destroy me, only makes me stronger.'\n font-size 18\n text 10,318 '48'\n font-size 48\n text 50,318 'That which does not destroy me, only makes me stronger.'\n font-size 18\n text 10,390 '60'\n font-size 60\n text 50,390 'That which does not destroy me, only makes me stronger.'\n font-size 18\n text 10,474 '72'\n font-size 72\n text 50,474 'That which does not destroy me, only makes me stronger.'\npop graphic-context"
-    },
-    "tainted": false,
-    "filesize": "14488B",
-    "numberPixels": "384000",
-    "pixelsPerSecond": "14.3345MB",
-    "userTime": "0.040u",
-    "elapsedTime": "0:01.026",
-    "version": "ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org"
+{
+  "spec": 1,
+  "name": "Font_name",
+  "previewText": "Text_preview",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1",
+    "ggmono-Normal": "https://github.com/TheHeroHacker/Minecraft/blob/main/Minecraft.ttf?raw=1"
   }
 }
-]
