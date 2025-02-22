@@ -1,7 +1,7 @@
 {
   "spec": 1,
-  "name": "Font_name",
-  "previewText": "Text_preview",
+  "name": "Minecraft",
+  "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog",
   "main": {
     "ABCGintoNord-ExtraBold": "https://github.com/TheHeroHacker/Minecraft/blob/main/MinecraftBold.otf?raw=1",
     "ggsans-Bold": "https://github.com/TheHeroHacker/Minecraft/blob/main/MinecraftBold.otf?raw=1",
